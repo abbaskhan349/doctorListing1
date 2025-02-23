@@ -48,7 +48,3 @@ A simple Next.js app to list and search doctors by city and specialty.
 - `npm run lint`: Run ESLint.
 
 ---
-
----
-
-That's it! 🚀
